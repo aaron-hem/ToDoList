@@ -35,6 +35,7 @@
         [self.toDoItems addObject:item];
         [self.tableView reloadData];
     }
+    NSLog(@"Lord");
     
 }
 
